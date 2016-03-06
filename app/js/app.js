@@ -14,6 +14,10 @@ var phonecatApp = angular.module('phonecatApp', [
 phonecatApp.config(['$routeProvider',
   function($routeProvider) {
     $routeProvider.
+        when('/home', {
+          templateUrl: 'home/home.html',
+          controller: 'HomeCtrl'
+        }).
       when('/phones', {
         templateUrl: 'partials/phone-list.html',
         controller: 'PhoneListCtrl'

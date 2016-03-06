@@ -1,0 +1,16 @@
+{
+  "slideshowimgs":[
+    {
+      "imgUrl": "home/jinyingcapitalservice.jpg",
+      "imgTargetUrl": "#/home"
+    },
+    {
+      "imgUrl": "home/jinyingproducts.jpg",
+      "imgTargetUrl": "#/home"
+    },
+    {
+      "imgUrl": "home/jinyingmembership.jpg",
+      "imgTargetUrl": "#/home"
+    }
+  ]
+}
