@@ -2,8 +2,16 @@
 
 body {
   padding-top: 20px;
+  background-color: darkred;
 }
 
+.navbar-brand {
+  color: gold;
+}
+
+.navbar-nav a {
+  color: white;
+}
 
 .phone-images {
   background-color: white;
