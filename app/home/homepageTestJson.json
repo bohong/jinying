@@ -1,15 +1,15 @@
 {
   "slideshowimgs":[
     {
-      "imgUrl": "home/jinyingcapitalservice.jpg",
+      "imgUrl": "img/phones/motorola-xoom.0.jpg",
       "imgTargetUrl": "#/home"
     },
     {
-      "imgUrl": "home/jinyingproducts.jpg",
+      "imgUrl": "img/phones/motorola-xoom.1.jpg",
       "imgTargetUrl": "#/home"
     },
     {
-      "imgUrl": "home/jinyingmembership.jpg",
+      "imgUrl": "img/phones/motorola-xoom.2.jpg",
       "imgTargetUrl": "#/home"
     }
   ]
